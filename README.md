@@ -46,6 +46,12 @@ The system is *instrumented* with:
 
 ---
 
+## Block Diagram
+
+<img width="1089" height="562" alt="image" src="https://github.com/user-attachments/assets/887265c1-0641-494b-9667-792e27dd8323" />
+
+---
+
 ## Graph
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7767da5-72e7-4734-ae41-5f57364f4a90" />
@@ -61,4 +67,3 @@ As the fiber span becomes longer, losses and dispersion spread each transmitted 
 ## Result
 
 Thus, the optiperformer software had been installed and a sample file had been run sucessfully.
-
